@@ -1,0 +1,9 @@
+.NavMenu_parent {
+    width: 100%;
+    background-color: rgb(231, 224, 224);
+    padding: 15px 100px;
+}
+.NavMenu_parent ul{
+    display: flex;
+    gap: 50px;
+}
